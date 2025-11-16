@@ -1,0 +1,49 @@
+body{
+    background-color: black ;
+    background-size: fit;
+    background-blend-mode: lighten;
+    background-position-x:0;
+   background-position-x: 0;
+  
+}
+#header{
+    text-align: center;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 700%;
+   text-decoration-line:underline;
+   line-height: 100%;
+}
+.Text{
+    color:white;
+}
+.section1{
+    border-color: red;
+    border-width:5px;
+    padding:50px;
+    padding-top: 0px;
+    border-style: groove;
+    background-color:black;
+    background-image: -webkit-image-set();
+    border-radius:2cm;
+}
+.paragraph{
+    font-family: 'Times Old Roman', Times, serif;
+    text-align:justify;
+    font-size: medium;
+    margin-left: 20px;
+    line-height: 100%;
+}
+.section2{
+    border-color: red;
+    border-width:5px;
+    padding:50px;
+    border-style: groove;
+    background-color:black;
+    background-image: -webkit-image-set();
+    border-radius:2cm;
+}
+.p{
+    font-size: 120%;
+}
